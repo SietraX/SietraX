@@ -41,9 +41,9 @@
 
 Here are some of the projects I've worked on:
 
-1. [Seffaf Fatura](https://github.com/SietraX/seffaf-fatura) - Mobile Phone Bill Comparison Platform - [Repo](https://github.com/SietraX/seffaf-fatura)
-2. [Saved](https://github.com/SietraX/saved) - Work in progress...
-3. [Purgamella Portfolio](https://github.com/SietraX/bozg-art) - Portfolio webpage for my lovely wife - [Repo](https://github.com/SietraX/bozg-art)
+1. [Seffaf Fatura](https://github.com/SietraX/seffaf-fatura) | Mobile Phone Bill Comparison Platform | [Repo](https://github.com/SietraX/seffaf-fatura)
+2. [Saved](https://github.com/SietraX/saved) | Work in progress...
+3. [Purgamella Portfolio](https://github.com/SietraX/bozg-art) | Portfolio webpage for my lovely wife | [Repo](https://github.com/SietraX/bozg-art)
 
 ## 🌐 Connect with me
 
