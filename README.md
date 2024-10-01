@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Caner. I like coding</h1>
-<h3 align="center">I like coding</h3>
+<h1 align="center">Hi 👋, I'm Caner</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <br />
 
 ## 🛠 Tech Stack
