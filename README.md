@@ -40,10 +40,8 @@
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
-
-1. [Seffaf Fatura](https://github.com/SietraX/seffaf-fatura) | Mobile Phone Bill Comparison Platform | [Repo](https://github.com/SietraX/seffaf-fatura)
-2. [Saved](https://github.com/SietraX/saved) | Work in progress...
-3. [Purgamella Portfolio](https://github.com/SietraX/bozg-art) | Portfolio webpage for my lovely wife | [Repo](https://github.com/SietraX/bozg-art)
+- [Seffaf Fatura](https://github.com/SietraX/seffaf-fatura) | Mobile Phone Bill Comparison Platform | [Repo](https://github.com/SietraX/seffaf-fatura)
+- [Saved](https://github.com/SietraX/saved) | Advanced YouTube Video Search and Collection Manager | [Repo](https://github.com/SietraX/saved)
 
 ## 🌐 Connect with me
 
@@ -55,7 +53,8 @@ Here are some of the projects I've worked on:
 I'm always exploring new technologies and methodologies. Currently, I'm focusing on:
 
 - Advanced React patterns and performance optimization
-- Backend development with Node.js and API design
+- Building and optimizing RESTful APIs for scalable and efficient web applications
+- Backend development with Node.js
 - Server-side rendering and static site generation techniques with Next.js
 
 Feel free to reach out for collaborations or just a chat about tech!
